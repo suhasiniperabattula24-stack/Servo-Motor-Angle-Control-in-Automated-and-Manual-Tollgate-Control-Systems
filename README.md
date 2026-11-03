@@ -20,11 +20,13 @@ An Arduino Uno-based tollgate control system designed to demonstrate automated a
 6. Manual operation can also be performed through the manual control mechanism.
 
 ## Servo Motor Angle Control
-
 | Angle | Gate Status |
 |---|---|
 | 0° | Closed |
 | 180° | Open |
+
+## Hardware Demonstration
+https://github.com/user-attachments/assets/db63165b-8c05-45e0-bf25-f151b4c41959
 
 ## Key Features
 - Automated vehicle detection
